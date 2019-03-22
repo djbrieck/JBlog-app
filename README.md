@@ -2,9 +2,9 @@
 
 This is a basic JHipster example project for the Angular 4 Java Developers class.
 
-See Attched JBlog-Application-Exercise.pdf for requirements of the project.
+See Attched JBlog-Application-Exercise.pdf for the requirements / guidelines for the project.
 
-Beging Standard JHipster boilerplate below...
+### Begin Standard JHipster boilerplate below...
 
 This application was generated using JHipster 5.7.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/vundefined](https://www.jhipster.tech/documentation-archive/vundefined).
 
